@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Rao aka @Vivek59
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I am a SOftware Engineer at Manhattan Associates
 - 📫 How to reach me, just send a mail at raoviveks59@gmail.com
 
 <!---
